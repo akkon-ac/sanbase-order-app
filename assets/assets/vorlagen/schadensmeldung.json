@@ -1,0 +1,39 @@
+{
+  "bild": "assets/vorlagen/schadensmeldung.png",
+  "seite": {
+    "breite": 596.04,
+    "hoehe": 842.52
+  },
+  "felder": {
+    "schadensmeldung": [
+      {"x": 86, "y": 122, "b": 17, "h": 17}
+    ],
+    "datum": [
+      {"x": 338, "y": 155, "b": 189, "h": 17, "groesse": 10},
+      {"x": 328, "y": 614, "b": 61, "h": 13, "groesse": 9},
+      {"x": 328, "y": 729, "b": 61, "h": 13, "groesse": 9}
+    ],
+    "einheit": [
+      {"x": 338, "y": 175, "b": 189, "h": 18, "groesse": 10}
+    ],
+    "bezeichnung": [
+      {"x": 338, "y": 195, "b": 189, "h": 18, "groesse": 10}
+    ],
+    "kennzeichen": [
+      {"x": 338, "y": 216, "b": 189, "h": 17, "groesse": 10}
+    ],
+    "sachverhalt": [
+      {"x": 69, "y": 307, "b": 458, "h": 70, "groesse": 10}
+    ],
+    "festgestellt_durch": [
+      {"x": 203, "y": 614, "b": 111, "h": 13, "groesse": 9}
+    ],
+    "verantwortlich": [
+      {"x": 203, "y": 729, "b": 111, "h": 13, "groesse": 9}
+    ],
+    "unterschrift": [
+      {"x": 405, "y": 614, "b": 98, "h": 13},
+      {"x": 405, "y": 729, "b": 98, "h": 13}
+    ]
+  }
+}
