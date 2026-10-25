@@ -150645,7 +150645,7 @@ I(a){var s,r,q,p,o=this,n=null,m=A.V(o.a.c==null?"Neues Item":"Item bearbeiten",
 for(s=j.length,r=t.b7,q=0;q<j.length;j.length===s||(0,A.o)(j),++q){p=j[q]
 h.push(new A.d1(p,A.V(p,n,n,n,n,n,n,n,n),B.bl,n,r))}h.push(B.abw)
 j=t.p
-h=A.b([l,k,A.yt(B.alE,i,!1,h,new A.dE("kat_"+o.y,t.kK),new A.b90(o,a),t.N),A.dV(n,B.aQ,!1,n,!0,B.a_,n,A.e7(),o.gRR(),n,n,n,n,n,2,B.alv,B.a2,!0,n,!0,n,!1,n,B.aU,n,n,n,n,n,n,n,n,3,1,n,!1,"\u2022",n,n,n,n,n,!1,n,n,!1,n,!0,n,B.b7,n,n,n,n,n,n,n,n,n,n,n,n,!0,B.au,n,B.b9,n,n,n,n),A.nt(B.am,new A.b91(o),B.bQA,B.bP7,o.ga4p())],j)
+h=A.b([l,k,A.yt(B.alE,i,!1,h,new A.dE("kat_"+o.y,t.kK),new A.b90(o,a),t.N),A.dV(n,B.aQ,!1,n,!0,B.a_,n,A.e7(),o.gRR(),n,n,n,n,n,2,B.alv,B.a2,!0,n,!0,n,!1,n,B.aU,n,n,n,n,n,n,n,n,3,1,n,!1,"\u2022",n,n,n,n,n,!1,n,n,!1,n,!0,n,B.b7,n,n,n,n,n,n,n,n,n,n,n,n,!0,B.au,n,B.b9,n,n,n,n),A.nt(B.am,new A.b91(o),B.bQA,B.bP6,o.ga4p())],j)
 l=o.a.e
 k=l.length
 if(k!==0){k=A.V("Verlauf ("+k+")",n,n,n,n,n,n,n,n)
@@ -151091,7 +151091,7 @@ s=4
 return A.p(A.cV(o,new A.bcg(p,a)),$async$jr)
 case 4:case 1:return A.y(q,r)}})
 return A.z($async$jr,r)},
-I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=h.gbz().hV($.aY(),t.D),e=f.b.Hg(),d=f.gt2().e,c=A.vc(B.hH,B.DF,B.bPg,new A.bcj(h)),b=A.b([],t.p)
+I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=h.gbz().hV($.aY(),t.D),e=f.b.Hg(),d=f.gt2().e,c=A.vc(B.hH,B.DF,B.bPf,new A.bcj(h)),b=A.b([],t.p)
 for(s=e.length,r=t.s,q=0;q<e.length;e.length===s||(0,A.o)(e),++q){p=e[q]
 o=d.h(0,p.a)
 n=p.c
@@ -151479,7 +151479,7 @@ e=g.$2("Kopf",e)
 r=A.b([],f)
 for(q=A.aC6(h),n=q.length,m=i.c,p=0;p<n;++p){l=q[p]
 r.push(A.EI(A.V(l.gd3(0),j,j,j,j,j,j,j,j),new A.aBT(k,i,l),m.n(0,l)))}f=A.b([e,g.$2("Spalten",r)],f)
-if(m.n(0,B.eG))f.push(A.nt(B.am,new A.aBU(k,i),A.V(s?"Klein unter der Bezeichnung":"Eigene Spalte nach der Bezeichnung",j,j,j,j,j,j,j,j),B.bP5,i.f))
+if(m.n(0,B.eG))f.push(A.nt(B.am,new A.aBU(k,i),A.V(s?"Klein unter der Bezeichnung":"Eigene Spalte nach der Bezeichnung",j,j,j,j,j,j,j,j),B.bP4,i.f))
 if(h===B.dX)f.push(A.nt(B.am,new A.aBV(k,i),A.V(s?"Eigene Tabelle je Fahrzeug mit Lieferstand und Notizen":"Zus\xe4tzliches Blatt \u201eJe Fahrzeug\u201c",j,j,j,j,j,j,j,j),B.bQb,i.e))
 if(s&&k.f)f.push(A.nt(B.am,new A.aBW(k,i),B.bQD,B.bQF,i.r))
 return A.bU(f,B.aG,j,B.K,B.at,0,B.a0)}}
@@ -151706,7 +151706,7 @@ c=A.vg(a0,c,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0)
 b=A.bHD(h,a0,a0)
 b.toString
 k.push(A.tK(A.dO(a0,a0,a0,b,a0,d,a0,new A.b7j(f,a5),a0,a0,c,a0,a0),e.b,a0,a0))}B.f.H(a4,A.b([new A.aM(B.acs,n,a0),new A.BV(B.bp,4,4,B.cQ,k,a0)],a3))}a4=A.bP(A.m1(a4,a0,a0,!1),460,560)
-s=A.qm(B.vO,B.bP4,new A.b7k(a,a5,a6))
+s=A.qm(B.vO,B.bP3,new A.b7k(a,a5,a6))
 r=a.r
 return A.fR(A.b([s,A.dv(!1,A.V(r==null?"Kein Icon":r,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,!0,a0,a0,new A.b7l(a5),a0,a0),A.dv(!1,B.cf,a0,a0,!0,a0,a0,new A.b7m(a5),a0,a0)],a3),a0,a4,a0,a0,a2)}}
 A.b7i.prototype={
@@ -152861,7 +152861,7 @@ $1(a){var s,r=null,q=A.C(a)
 q=A.o3(B.fw.lb(0.28),q.ax.k2)
 s=this.a
 s=A.bP(A.jP(A.V(""+s.length+" Item(s) der Teilbestellung sind in der Itemliste deaktiviert:\n\n"+new A.a2(s,new A.bdE(),A.a1(s).i("a2<1,h>")).bu(0,"\n")+"\n\nSollen sie trotzdem in die Bestellung \xfcbernommen werden?",r,r,r,r,r,r,r,r),r,B.a2,r,r,r,B.aL),r,480)
-return A.fR(A.b([A.dv(!1,B.cf,r,r,!0,r,r,new A.bdF(a),r,r),A.Pf(B.bQm,new A.bdG(a),r),A.ij(B.bOX,new A.bdH(a),r)],t.p),q,s,r,B.ako,B.bPc)},
+return A.fR(A.b([A.dv(!1,B.cf,r,r,!0,r,r,new A.bdF(a),r,r),A.Pf(B.bQm,new A.bdG(a),r),A.ij(B.bOX,new A.bdH(a),r)],t.p),q,s,r,B.ako,B.bPb)},
 $S:59}
 A.bdE.prototype={
 $1(a){return"\u2022 "+a.a.b+": "+a.b},
@@ -153603,7 +153603,7 @@ h=!1
 if(!a6.a.e){b2=b1.bC(0,b2,b3)
 if(b2.d!=null)b2=b2.gt9()===B.cq||B.eF.n(0,B.ef)
 else b2=h}else b2=h
-if(b2)i.push(A.qm(B.Dw,B.bPf,new A.bdm(a6,p)))
+if(b2)i.push(A.qm(B.Dw,B.bPe,new A.bdm(a6,p)))
 b2=A.fG(B.bp,A.b([new A.KH(a6.w,new A.bdn(a6),a7),new A.KO(new A.bdo(a6),a7)],n),B.eb,0,12)
 b3=b0.a
 h=m!==B.bK
@@ -154633,7 +154633,7 @@ m.push(B.fU)
 m.push(A.dh(r,1))
 g=l.c
 g.toString
-m.push(A.fc(!1,B.aq,!0,k,A.wn(!0,new A.aM(B.Ck,A.aq(g,B.cz,t.l).w.a.a<600?l.awX(h):A.fG(B.bp,A.b([l.ad7(),A.ma(B.vL,B.a0y,l.gaJl()),A.a4K(B.vK,B.bPh,new A.bfL(l,h)),A.ma(B.nY,B.a0x,new A.bfM(l,h)),A.ma(B.nZ,B.a0z,new A.bfD(l,h))],p),B.eb,8,12),k),B.am,!1),B.a8,k,4,k,k,k,k,k,B.cK))
+m.push(A.fc(!1,B.aq,!0,k,A.wn(!0,new A.aM(B.Ck,A.aq(g,B.cz,t.l).w.a.a<600?l.awX(h):A.fG(B.bp,A.b([l.ad7(),A.ma(B.vL,B.a0y,l.gaJl()),A.a4K(B.vK,B.bPg,new A.bfL(l,h)),A.ma(B.nY,B.a0x,new A.bfM(l,h)),A.ma(B.nZ,B.a0z,new A.bfD(l,h))],p),B.eb,8,12),k),B.am,!1),B.a8,k,4,k,k,k,k,k,B.cK))
 return A.bCG(!f,A.ki(o,A.bU(m,B.T,k,B.K,B.a4,0,B.a0),k),new A.bfE(l,a),t.K)}}
 A.bf6.prototype={
 $1(a){var s=this.a.x.h(0,a)
@@ -155068,7 +155068,7 @@ g=""+B.o.aU(h*100)
 f=t.p
 h=A.b([new A.kD("Farben","Eigene Einstellungen gelten nur auf diesem PC. Nicht gesetzte Werte kommen aus dem Standard"+q+" (\u201eStandard\u201c im Farbw\xe4hler).",e),p,B.bV,new A.lQ("Hauptakzentfarbe",o,n,new A.b22(a1,a,a3),"Kn\xf6pfe, Symbole, Auswahl",e),new A.lQ("Zweitakzentfarbe",m,l,new A.b26(a1,a,a3),"Fl\xe4chen wie Karten, z. B. die Neuigkeiten",e),new A.lQ("Hervorhebungsfarbe",k,a6.y,new A.b27(a1,a,a3),"Markierte Zeilen, Chips, ausgew\xe4hlte Items",e),new A.lQ("Hintergrund",j,a6.k2,new A.b28(a1,a,a3),e,e),new A.lQ("Schriftfarbe",a2,a6.k3,new A.b29(a1,a,a3),e,e),B.bXP,i,B.dy,A.V("Darstellungsgr\xf6\xdfe: "+g+" %",e,e,e,e,e,e,e,e),A.acG(e,14,g+" %",1.5,0.8,e,new A.b2a(a1,a),h)],f)
 h.push(B.bXT)
-h.push(A.kN(new A.aM(B.nE,A.bU(A.b([A.V("Beispieltext in der gew\xe4hlten Schrift",e,e,e,e,A.C(a7).ok.w,e,e,e),B.bV,A.fG(B.bp,A.b([A.ij(B.bP9,new A.b2b(),e),A.Pf(B.bPI,new A.b2c(),e),B.a6G,A.EI(B.bPl,new A.b2d(),!0),A.hR(B.jl,a0.ax.b,e,e)],f),B.cQ,8,8)],f),B.aG,e,B.K,B.a4,0,B.a0),e),e))
+h.push(A.kN(new A.aM(B.nE,A.bU(A.b([A.V("Beispieltext in der gew\xe4hlten Schrift",e,e,e,e,A.C(a7).ok.w,e,e,e),B.bV,A.fG(B.bp,A.b([A.ij(B.bP8,new A.b2b(),e),A.Pf(B.bPI,new A.b2c(),e),B.a6G,A.EI(B.bPl,new A.b2d(),!0),A.hR(B.jl,a0.ax.b,e,e)],f),B.cQ,8,8)],f),B.aG,e,B.K,B.a4,0,B.a0),e),e))
 h.push(B.dy)
 a0=A.b([A.qm(B.nX,B.a0v,a.R2().a!==0?new A.b23(a1,a):e)],f)
 if(s)a0.push(A.ma(B.Dx,B.bQi,new A.b24(this,a7,a8,a,a4)))
@@ -155650,7 +155650,7 @@ l.toString
 l=A.buy("Datenbank-ID: "+l)
 s=o.b.Cx(0,"PRAGMA user_version")
 r=t.p
-s=A.b([m,l,A.V("Schema-Version: "+A.aw(s.gR(s).b[0]),q,q,q,q,q,q,q,q),B.bP3],r)
+s=A.b([m,l,A.V("Schema-Version: "+A.aw(s.gR(s).b[0]),q,q,q,q,q,q,q,q),B.bPh],r)
 if(n!=null){m=A.kG(n.HP())
 l=o.ly(p)!=null?" von "+A.l(o.ly(p)):""
 s.push(A.V("Zuletzt ge\xe4ndert: "+m+l,q,q,q,q,q,q,q,q))}m=this.w
@@ -156388,7 +156388,7 @@ b=A.b([],t.ex)
 for(s=t.aG,r=0;r<3;++r){q=B.KK[r]
 b.push(new A.d1(q,A.V(q.c,e,e,e,e,e,e,e,e),B.bl,e,s))}c=A.yt(B.aly,c.b,!1,b,e,new A.b_r(f),t.By)
 b=t.p
-c=A.b([B.bXR,d,B.bV,c,B.bV,new A.df(B.dh,e,e,A.N3(B.Dx,B.bP8,!a1||!a3?e:new A.b_s(f,a)),e),B.bXW],b)
+c=A.b([B.bXR,d,B.bV,c,B.bV,new A.df(B.dh,e,e,A.N3(B.Dx,B.bP7,!a1||!a3?e:new A.b_s(f,a)),e),B.bXW],b)
 for(d=A.Fh(f.gzA(),0,t.dx),a1=J.b8(d.a),s=d.b,d=new A.iH(a1,s,A.k(d).i("iH<1>"));d.t();){p={}
 o=d.c
 o=o>=0?new A.R(s+o,a1.gN(a1)):A.a_(A.cE())
@@ -156758,7 +156758,7 @@ o.push(A.fG(B.bp,A.b([A.ma(B.akO,B.bPn,q.gaLr()),A.ma(B.fZ,B.bPE,q.gaL8())],s),B
 o.push(B.bIB)
 s=q.c
 s.toString
-o.push(A.V("Version 0.1.0 \xb7 Build 6adc74a-20261024-2308",p,p,p,p,A.C(s).ok.Q,p,p,p))
+o.push(A.V("Version 0.1.0 \xb7 Build 6adc74a-dirty-20261025-1030",p,p,p,p,A.C(s).ok.Q,p,p,p))
 return new A.y1(o,900,p)}}
 A.bkh.prototype={
 $1(a){var s=this.a
@@ -156883,7 +156883,7 @@ l=l.a
 l.toString
 s=t.p
 l=A.b([new A.Uz(l,m),B.rB,A.V("Wer arbeitet gerade?",m,m,m,m,A.C(a).ok.f,m,m,m),B.ce],s)
-if(k.length===0)B.f.H(l,A.b([B.bPd,B.ce,new A.df(B.dh,m,m,A.a4K(B.DF,B.bPi,new A.bc4(this,a)),m)],s))
+if(k.length===0)B.f.H(l,A.b([B.bPc,B.ce,new A.df(B.dh,m,m,A.a4K(B.DF,B.bPi,new A.bc4(this,a)),m)],s))
 for(s=k.length,r=0;r<k.length;k.length===s||(0,A.o)(k),++r){q=k[r]
 p=j.h(0,q.a)
 o=A.V(q.b,m,m,m,m,m,m,m,m)
@@ -167489,8 +167489,8 @@ B.a0w=new A.ap("Alle Kategorien",null,null,null,null,null,null,null,null,null,nu
 B.abv=new A.d1(null,B.a0w,B.bl,null,t.k9)
 B.bPx=new A.ap("Neue Kategorie \u2026",null,null,null,null,null,null,null,null,null,null)
 B.abw=new A.d1("\x00neu",B.bPx,B.bl,null,t.b7)
-B.bPa=new A.ap("\u2013 ohne Kategorie \u2013",null,null,null,null,null,null,null,null,null,null)
-B.abx=new A.d1("",B.bPa,B.bl,null,t.b7)
+B.bP9=new A.ap("\u2013 ohne Kategorie \u2013",null,null,null,null,null,null,null,null,null,null)
+B.abx=new A.d1("",B.bP9,B.bl,null,t.b7)
 B.aby=new A.MB(null,null,null,null)
 B.az=new A.bG(0)
 B.cj=new A.bG(1e5)
@@ -168705,8 +168705,8 @@ B.aTe=s(["Ion","Chwef","Maw","Ebr","Mai","Meh","Gorff","Awst","Medi","Hyd","Tach
 B.bZ=s(["January","February","March","April","May","June","July","August","September","October","November","December"],t.s)
 B.aiO=new A.af(58501,"MaterialIcons",!1)
 B.akP=new A.bV(B.aiO,null,null,null,null)
-B.bPb=new A.ap("Offene Items",null,null,null,null,null,null,null,null,null,null)
-B.a4M=new A.e8(!0,B.akP,B.bPb,null,t.Mt)
+B.bPa=new A.ap("Offene Items",null,null,null,null,null,null,null,null,null,null)
+B.a4M=new A.e8(!0,B.akP,B.bPa,null,t.Mt)
 B.aiT=new A.af(58637,"MaterialIcons",!1)
 B.akv=new A.bV(B.aiT,null,null,null,null)
 B.bQt=new A.ap("Bestellungen",null,null,null,null,null,null,null,null,null,null)
@@ -176168,8 +176168,8 @@ B.bPM=new A.ap("Export",null,null,null,null,null,null,null,null,null,null)
 B.b2o=s([B.vQ,B.ys,B.bPM],t.p)
 B.bG_=new A.wm(B.bd,B.K,B.a4,B.T,null,B.a0,null,0,B.b2o,null)
 B.bAd=new A.aM(B.d9,B.bG_,null)
-B.bP6=new A.ap("Noch kein Text und kein Logo: beides im Reiter \u201eProgramm-Kopfzeile\u201c festlegen, sonst bleibt der Startbildschirm aus.",null,null,null,null,null,null,null,null,null,null)
-B.bAe=new A.aM(B.Cg,B.bP6,null)
+B.bP5=new A.ap("Noch kein Text und kein Logo: beides im Reiter \u201eProgramm-Kopfzeile\u201c festlegen, sonst bleibt der Startbildschirm aus.",null,null,null,null,null,null,null,null,null,null)
+B.bAe=new A.aM(B.Cg,B.bP5,null)
 B.bOR=new A.ap("Keine Eintr\xe4ge. Vorg\xe4nge vor dem Update auf diese Version sind nur als Wareneing\xe4nge unten vermerkt.",null,null,null,null,null,null,null,null,null,null)
 B.bAf=new A.aM(B.d9,B.bOR,null)
 B.bOQ=new A.ap("Keine Eintr\xe4ge.",null,null,null,null,null,null,null,null,null,null)
@@ -176177,8 +176177,8 @@ B.bAg=new A.aM(B.d9,B.bOQ,null)
 B.ach=new A.at(0,16,0,16)
 B.bPT=new A.ap("Noch keine Ereignisse.",null,null,null,null,null,null,null,null,null,null)
 B.bAh=new A.aM(B.ach,B.bPT,null)
-B.bPe=new A.ap("Noch keine Wareneing\xe4nge gebucht.",null,null,null,null,null,null,null,null,null,null)
-B.bAi=new A.aM(B.d9,B.bPe,null)
+B.bPd=new A.ap("Noch keine Wareneing\xe4nge gebucht.",null,null,null,null,null,null,null,null,null,null)
+B.bAi=new A.aM(B.d9,B.bPd,null)
 B.Vy=new A.Pk(0,"natural")
 B.bAj=new A.Pk(1,"landscape")
 B.bAk=new A.Pk(2,"portrait")
@@ -177118,20 +177118,20 @@ B.bOX=new A.ap("Trotzdem \xfcbernehmen",null,null,null,null,null,null,null,null,
 B.bP0=new A.ap("Beim \xd6ffnen der Datenbank anzeigen",null,null,null,null,null,null,null,null,null,null)
 B.bP1=new A.ap("Aktuelle Auswahl als Standard",null,null,null,null,null,null,null,null,null,null)
 B.bP2=new A.ap("Alle Items anzeigen",null,null,null,null,null,null,null,null,null,null)
-B.bP3=new A.ap("Programm: Version 0.1.0 \xb7 Build 6adc74a-20261024-2308",null,null,null,null,null,null,null,null,null,null)
-B.bP4=new A.ap("Eigenes Bild \u2026",null,null,null,null,null,null,null,null,null,null)
-B.bP5=new A.ap("Item-Beschreibung anzeigen",null,null,null,null,null,null,null,null,null,null)
-B.bP7=new A.ap("Aktiv",null,null,null,null,null,null,null,null,null,null)
-B.bP8=new A.ap("Nummernregel speichern",null,null,null,null,null,null,null,null,null,null)
-B.bP9=new A.ap("Knopf",null,null,null,null,null,null,null,null,null,null)
-B.bPc=new A.ap("Deaktivierte Items in der Teilbestellung",null,null,null,null,null,null,null,null,null,null)
+B.bP3=new A.ap("Eigenes Bild \u2026",null,null,null,null,null,null,null,null,null,null)
+B.bP4=new A.ap("Item-Beschreibung anzeigen",null,null,null,null,null,null,null,null,null,null)
+B.bP6=new A.ap("Aktiv",null,null,null,null,null,null,null,null,null,null)
+B.bP7=new A.ap("Nummernregel speichern",null,null,null,null,null,null,null,null,null,null)
+B.bP8=new A.ap("Knopf",null,null,null,null,null,null,null,null,null,null)
+B.bPb=new A.ap("Deaktivierte Items in der Teilbestellung",null,null,null,null,null,null,null,null,null,null)
 B.mq=new A.ap("Speichern",null,null,null,null,null,null,null,null,null,null)
-B.bPd=new A.ap("In dieser Datenbank ist noch kein Nutzer angelegt.",null,null,null,null,null,null,null,null,null,null)
-B.bPf=new A.ap("Notiz",null,null,null,null,null,null,null,null,null,null)
-B.bPg=new A.ap("Nutzer",null,null,null,null,null,null,null,null,null,null)
+B.bPc=new A.ap("In dieser Datenbank ist noch kein Nutzer angelegt.",null,null,null,null,null,null,null,null,null,null)
+B.bPe=new A.ap("Notiz",null,null,null,null,null,null,null,null,null,null)
+B.bPf=new A.ap("Nutzer",null,null,null,null,null,null,null,null,null,null)
 B.a0s=new A.ap("\xdcbernehmen",null,null,null,null,null,null,null,null,null,null)
-B.bPh=new A.ap("Exportieren (f\xfcr Import)",null,null,null,null,null,null,null,null,null,null)
+B.bPg=new A.ap("Exportieren (f\xfcr Import)",null,null,null,null,null,null,null,null,null,null)
 B.a0t=new A.ap("Hinzuf\xfcgen",null,null,null,null,null,null,null,null,null,null)
+B.bPh=new A.ap("Programm: Version 0.1.0 \xb7 Build 6adc74a-dirty-20261025-1030",null,null,null,null,null,null,null,null,null,null)
 B.bPi=new A.ap("Ersten Nutzer anlegen (voller Zugriff)",null,null,null,null,null,null,null,null,null,null)
 B.bPj=new A.ap("Standard der Datenbank entfernen",null,null,null,null,null,null,null,null,null,null)
 B.bPl=new A.ap("Ausgew\xe4hlt",null,null,null,null,null,null,null,null,null,null)
